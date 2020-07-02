@@ -13,7 +13,7 @@ The first file describes the topology and consists of 4 sections:
 2. The following **x** lines contain the names of each router/node in the topology.
 3. The next line is a number, **y**, that indicates the number of links/edges in the topology.
 4. The following **y** lines contain the details of each link/edge in the topology.
-- Written as the names of two routers/nodes followed by the weight of that link/edge, all separated by spaces.
+    - Written as the names of two routers/nodes followed by the weight of that link/edge, all separated by spaces.
 
 The second file describes the changes to the link/edge weights and consists of 2 sections:
 1. The first next line is a number, **y**, that indicates the number changed links/edges in the topology.
